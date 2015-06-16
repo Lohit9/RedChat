@@ -1,2 +1,2 @@
 # RedChat
-Chatting App for iPhone
+Fully functional Chatting Application for iPhone
