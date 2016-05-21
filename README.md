@@ -1,3 +1,2 @@
 # RedChat
-Fully functional Chatting Application for iPhone
-
+Fully functional Chatting App for iOS. Modelled after WhatsApp
